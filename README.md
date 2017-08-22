@@ -1,2 +1,3 @@
 # hello-world
 The journey begins.....
+This is Eoin. Starting the journey in to the GIt Hub world.
